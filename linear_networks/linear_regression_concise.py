@@ -1,12 +1,10 @@
-import numpy as np
-import os
-os.environ["CUDA_VISIBLE_DEVICES"]="-1"
 import tensorflow as tf
+
 from linear_regression_scratch import synthetic_data
 
 
 def load_array(data_arrays, batch_size, is_train=True):
-    """A data set generater"""
+    """A data set generator"""
     dataset = tf.data.Dataset.from_tensor_slices(data_arrays)
     if is_train:
         dataset = dataset.shuffle(buffer_size=1000)
