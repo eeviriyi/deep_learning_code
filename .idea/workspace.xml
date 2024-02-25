@@ -4,23 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-<<<<<<< HEAD
-    <list default="true" id="a1dd0abd-2c20-40a8-88cf-c6be8aad892c" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Tensorflow.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linear_networks/linear_regression_concise.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linear_networks/linear_regression_scratch.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-=======
     <list default="true" id="a1dd0abd-2c20-40a8-88cf-c6be8aad892c" name="更改" comment="merge">
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/linear_networks/linear_regression_concise.py" beforeDir="false" afterPath="$PROJECT_DIR$/linear_networks/linear_regression_concise.py" afterDir="false" />
->>>>>>> 34bab2f (merge)
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,12 +17,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-<<<<<<< HEAD
-=======
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="ProjectErrors" />
   </component>
->>>>>>> 34bab2f (merge)
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 7
 }]]></component>
@@ -55,10 +39,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-<<<<<<< HEAD
-=======
     "settings.editor.selected.configurable": "preferences.pluginManager",
->>>>>>> 34bab2f (merge)
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -102,10 +83,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1708829107962</updated>
-<<<<<<< HEAD
-      <workItem from="1708829110042" duration="614000" />
-    </task>
-=======
       <workItem from="1708829110042" duration="1358000" />
     </task>
     <task id="LOCAL-00001" summary="merge">
@@ -117,14 +94,11 @@
       <updated>1708830493178</updated>
     </task>
     <option name="localTasksCounter" value="2" />
->>>>>>> 34bab2f (merge)
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-<<<<<<< HEAD
-=======
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
@@ -152,7 +126,6 @@
     <MESSAGE value="merge" />
     <option name="LAST_COMMIT_MESSAGE" value="merge" />
   </component>
->>>>>>> 34bab2f (merge)
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
